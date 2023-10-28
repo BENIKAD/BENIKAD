@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @BENIKAD
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on projects that requires big programming techniques
-- 📫 How to reach me via this mail benjaminikuesan1@gmail.com
+👋 Hello, I'm Benjamin!
 
-<!---
-BENIKAD/BENIKAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Full-Stack Developer & Blockchain Enthusiast
+
+🌐 Let's build a decentralized future!
+
+🛠️ Skills:
+- Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, SASS, Webpack
+- Backend: Node.js, Express.js, RESTful APIs, MongoDB, Mongoose
+- Blockchain: Ethereum, Smart Contracts, Solidity
+- DevOps: Docker, Kubernetes, Containerization
+- CMS: WordPress
+
+💡 Passionate about creating seamless web experiences and exploring the potential of blockchain technology.
+
+📫 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/benjamin-adebanjo-ikuesan)
