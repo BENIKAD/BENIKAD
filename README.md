@@ -5,7 +5,7 @@
 🌐 Let's build a decentralized future!
 
 🛠️ Skills:
-- Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, SASS, Webpack
+- Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, Webpack
 - Backend: Node.js, Express.js, RESTful APIs, MongoDB, Mongoose
 - Blockchain: Ethereum, Smart Contracts, Solidity
 - DevOps: Docker, Kubernetes, Containerization
