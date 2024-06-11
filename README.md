@@ -8,7 +8,7 @@
 - Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, Webpack
 - Backend: Node.js, Express.js, RESTful APIs, MongoDB, Mongoose
 - Blockchain: Ethereum, Smart Contracts, Solidity
-- DevOps: Docker, Kubernetes, Containerization
+- DevOps: Docker, Kubernetes
 - CMS: WordPress
 
 💡 Passionate about creating seamless web experiences and exploring the potential of blockchain technology.
