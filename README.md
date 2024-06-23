@@ -1,6 +1,6 @@
 👋 Hello, I'm Benjamin!
 
-💼 Front-end Developer & Blockchain Enthusiast
+💼 Front-end Developer & FullStack Enthusiast
 
 🌐 Let's build a decentralized future!
 
