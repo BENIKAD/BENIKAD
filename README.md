@@ -5,8 +5,8 @@
 🌐 Let's build a decentralized future!
 
 🛠️ Skills:
-- Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, Webpack
-- DevOps: Docker, Kubernetes
+- Frontend: React, HTML, JavaScript, Tailwind CSS, CSS, Webpack
+- DevOps: Docker, 
 - CMS: WordPress
 
 💡 Passionate about creating seamless web experiences and exploring the potential of blockchain technology.
