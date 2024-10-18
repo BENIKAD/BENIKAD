@@ -4,10 +4,10 @@
 
 
 🛠️ Skills:
-- Frontend: React, JavaScript, Tailwind CSS, CSS, Redux, Webpack
+- Frontend: React, JavaScript, Tailwind CSS, CSS
 - Backend: Node.js, Express.js, RESTful APIs, MongoDB, Mongoose
-- Blockchain: Ethereum, Smart Contracts, Solidity
-- DevOps: Docker, Kubernetes, Containerization
+- DevOps: Docker, Kubernetes, Containerization, Jenkins
+- Other Strong Skills: Bash scripting, Linux, Aws cloud, Python, Jira
 - CMS: WordPress
 
 💡 Creating seamless web experiences and exploring the potential of blockchain technology.
